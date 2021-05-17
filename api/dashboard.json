@@ -2,11 +2,11 @@
     "cards": [
         {
             "valid": true,
-            "id": 209578,
-            "type": "TSF",
-            "number": "9089",
+            "id": 20,
+            "type": "TR",
+            "number": "1234",
             "balance": 2393.98,
-            "produto": "Ticket Super Flex",
+            "produto": "Ticket Refeição",
             "ativoCompraOnline": true,
             "extrato": [
                 {
@@ -14,7 +14,7 @@
                     "value": "180,00",
                     "dateParsed": "2021-05-16T13:29:20",
                     "valueParsed": 180,
-                    "description": "REDE PAPA SHELL PRE PAGO"
+                    "description": "REDE ALIMENTAR TESTE"
                 },
                 {
                     "date": "30/04/2021 00:00:00",
@@ -28,21 +28,21 @@
                     "value": "150,00",
                     "dateParsed": "2021-04-29T18:43:27",
                     "valueParsed": 150,
-                    "description": "REDE PAPA SHELL PRE PAGO"
+                    "description": "REDE ALIMENTAR TESTE"
                 },
                 {
                     "date": "16/04/2021 18:20:43",
                     "value": "150,00",
                     "dateParsed": "2021-04-16T18:20:43",
                     "valueParsed": 150,
-                    "description": "REDE PAPA SHELL PRE PAGO"
+                    "description": "REDE ALIMENTAR TESTE"
                 },
                 {
                     "date": "05/04/2021 19:11:06",
                     "value": "150,00",
                     "dateParsed": "2021-04-05T19:11:06",
                     "valueParsed": 150,
-                    "description": "REDE PAPA SHELL PRE PAGO"
+                    "description": "REDE ALIMENTAR TESTE"
                 },
                 {
                     "date": "31/03/2021 00:00:00",
@@ -56,17 +56,17 @@
                     "value": "150,00",
                     "dateParsed": "2021-03-24T18:22:06",
                     "valueParsed": 150,
-                    "description": "REDE PAPA SHELL PRE PAGO"
+                    "description": "REDE ALIMENTAR TESTE"
                 }
             ]
         },
         {
             "valid": true,
-            "id": 209579,
-            "type": "TSF",
-            "number": "9090",
-            "balance": 232.98,
-            "produto": "Ticket Super Flex",
+            "id": 21,
+            "type": "TR",
+            "number": "4321",
+            "balance": 233.98,
+            "produto": "Ticket Refeição",
             "ativoCompraOnline": true,
             "extrato": [
                 {
@@ -74,28 +74,28 @@
                     "value": "49,50",
                     "dateParsed": "2021-05-13T00:00:00",
                     "valueParsed": 49.5,
-                    "description": "COMPRAS - PIZZA CO"
+                    "description": "PIZZARIA"
                 },
                 {
                     "date": "07/05/2021 00:00:00",
                     "value": "41",
                     "dateParsed": "2021-05-07T00:00:00",
                     "valueParsed": 41,
-                    "description": "COMPRAS - KAMAN PIZZARIA E ESFIHARIA"
+                    "description": "COMPRAS - PIZZARIA E ESFIHARIA"
                 },
                 {
                     "date": "07/05/2021 00:00:00",
                     "value": "75,89",
                     "dateParsed": "2021-05-07T00:00:00",
                     "valueParsed": 75.89,
-                    "description": "COMPRAS - PIZZA CO"
+                    "description": "PIZZARIA"
                 },
                 {
                     "date": "02/05/2021 00:00:00",
                     "value": "99",
                     "dateParsed": "2021-05-02T00:00:00",
                     "valueParsed": 99,
-                    "description": "COMPRAS - MAIS QUE FRANGO"
+                    "description": "COMPRAS - FRANGO"
                 },
                 {
                     "date": "01/05/2021 00:00:00",
@@ -109,84 +109,84 @@
                     "value": "189,83",
                     "dateParsed": "2021-04-25T00:00:00",
                     "valueParsed": 189.83,
-                    "description": "COMPRAS - KYUURAI"
+                    "description": "COMPRAS - PIZZA"
                 },
                 {
                     "date": "23/04/2021 00:00:00",
                     "value": "75,40",
                     "dateParsed": "2021-04-23T00:00:00",
                     "valueParsed": 75.4,
-                    "description": "COMPRAS - PIZZA CO"
+                    "description": "PIZZARIA"
                 },
                 {
                     "date": "18/04/2021 00:00:00",
                     "value": "30",
                     "dateParsed": "2021-04-18T00:00:00",
                     "valueParsed": 30,
-                    "description": "COMPRAS - pasteis yoko"
+                    "description": "COMPRAS - pasteis"
                 },
                 {
                     "date": "17/04/2021 00:00:00",
                     "value": "68,40",
                     "dateParsed": "2021-04-17T00:00:00",
                     "valueParsed": 68.4,
-                    "description": "COMPRAS - PIZZA CO"
+                    "description": "PIZZARIA"
                 },
                 {
                     "date": "17/04/2021 00:00:00",
                     "value": "58,80",
                     "dateParsed": "2021-04-17T00:00:00",
                     "valueParsed": 58.8,
-                    "description": "COMPRAS - MC DONALD'S"
+                    "description": "COMPRAS - PIZZA"
                 },
                 {
                     "date": "14/04/2021 00:00:00",
                     "value": "62",
                     "dateParsed": "2021-04-14T00:00:00",
                     "valueParsed": 62,
-                    "description": "COMPRAS - COLHER DE MARIA BISTRO E EMPORIO"
+                    "description": "COMPRAS - BISTRO E EMPORIO"
                 },
                 {
                     "date": "11/04/2021 00:00:00",
                     "value": "311",
                     "dateParsed": "2021-04-11T00:00:00",
                     "valueParsed": 311,
-                    "description": "COMPRAS - SANTA FE CERVEJARIA"
+                    "description": "COMPRAS - CERVEJARIA"
                 },
                 {
                     "date": "10/04/2021 00:00:00",
                     "value": "42,10",
                     "dateParsed": "2021-04-10T00:00:00",
                     "valueParsed": 42.1,
-                    "description": "COMPRAS - ESFIHA CIA"
+                    "description": "COMPRAS - ESFIHA"
                 },
                 {
                     "date": "09/04/2021 00:00:00",
                     "value": "60,96",
                     "dateParsed": "2021-04-09T00:00:00",
                     "valueParsed": 60.96,
-                    "description": "COMPRAS - NOITE DA PIZZA"
+                    "description": "COMPRAS - PIZZA"
                 },
                 {
                     "date": "09/04/2021 00:00:00",
                     "value": "75,40",
                     "dateParsed": "2021-04-09T00:00:00",
                     "valueParsed": 75.4,
-                    "description": "COMPRAS - PIZZA CO"
+                    "description": "PIZZARIA"
                 },
                 {
                     "date": "03/04/2021 00:00:00",
                     "value": "79",
                     "dateParsed": "2021-04-03T00:00:00",
                     "valueParsed": 79,
-                    "description": "COMPRAS - DBOA III"
+                    "description": "COMPRAS - Loja III"
                 },
                 {
                     "date": "01/04/2021 00:00:00",
                     "value": "64",
                     "dateParsed": "2021-04-01T00:00:00",
                     "valueParsed": 64,
-                    "description": "COMPRAS - ESFIHARIA SANTISTA"
+                    "description": "COMPRAS - ESFIHARIA"
                 },
                 {
                     "date": "01/04/2021 00:00:00",
@@ -200,56 +200,56 @@
                     "value": "20,34",
                     "dateParsed": "2021-03-31T00:00:00",
                     "valueParsed": 20.34,
-                    "description": "COMPRAS - PANIF TOCANTINS LT"
+                    "description": "COMPRAS - PANIF TESTE"
                 },
                 {
                     "date": "28/03/2021 00:00:00",
                     "value": "54",
                     "dateParsed": "2021-03-28T00:00:00",
                     "valueParsed": 54,
-                    "description": "COMPRAS - DBOA III"
+                    "description": "COMPRAS - PIZZA"
                 },
                 {
                     "date": "27/03/2021 00:00:00",
                     "value": "135",
                     "dateParsed": "2021-03-27T00:00:00",
                     "valueParsed": 135,
-                    "description": "COMPRAS - MAIS QUE FRANGO"
+                    "description": "COMPRAS - FRANGO"
                 },
                 {
                     "date": "20/03/2021 00:00:00",
                     "value": "54",
                     "dateParsed": "2021-03-20T00:00:00",
                     "valueParsed": 54,
-                    "description": "COMPRAS - KAMAN PIZZARIA E ESFIHARIA"
+                    "description": "COMPRAS - PIZZARIA E ESFIHARIA"
                 },
                 {
                     "date": "19/03/2021 00:00:00",
                     "value": "64",
                     "dateParsed": "2021-03-19T00:00:00",
                     "valueParsed": 64,
-                    "description": "COMPRAS - ESFIHARIA SANTISTA"
+                    "description": "COMPRAS - ESFIHARIA"
                 },
                 {
                     "date": "17/03/2021 00:00:00",
                     "value": "33,77",
                     "dateParsed": "2021-03-17T00:00:00",
                     "valueParsed": 33.77,
-                    "description": "COMPRAS - PANIF TOCANTINS LT"
+                    "description": "COMPRAS - PASTEL"
                 },
                 {
                     "date": "13/03/2021 00:00:00",
                     "value": "90",
                     "dateParsed": "2021-03-13T00:00:00",
                     "valueParsed": 90,
-                    "description": "COMPRAS - KAMAN PIZZARIA E ESFIHARIA"
+                    "description": "COMPRAS - PIZZARIA E ESFIHARIA"
                 },
                 {
                     "date": "07/03/2021 00:00:00",
                     "value": "38",
                     "dateParsed": "2021-03-07T00:00:00",
                     "valueParsed": 38,
-                    "description": "COMPRAS - pasteis yoko"
+                    "description": "COMPRAS - pasteis"
                 },
                 {
                     "date": "01/03/2021 00:00:00",
@@ -257,13 +257,6 @@
                     "dateParsed": "2021-03-01T00:00:00",
                     "valueParsed": 803,
                     "description": "DISPONIB. DE CREDITO"
-                },
-                {
-                    "date": "23/02/2021 00:00:00",
-                    "value": "277,81",
-                    "dateParsed": "2021-02-23T00:00:00",
-                    "valueParsed": 277.81,
-                    "description": "COMPRAS - KYUURAI"
                 },
                 {
                     "date": "21/02/2021 00:00:00",
@@ -277,28 +270,28 @@
                     "value": "184,80",
                     "dateParsed": "2021-02-20T00:00:00",
                     "valueParsed": 184.8,
-                    "description": "COMPRAS - AIKO SUSHI"
+                    "description": "COMPRAS - SUSHI"
                 },
                 {
                     "date": "19/02/2021 00:00:00",
                     "value": "64",
                     "dateParsed": "2021-02-19T00:00:00",
                     "valueParsed": 64,
-                    "description": "COMPRAS - ESFIHARIA SANTISTA"
+                    "description": "COMPRAS - ESFIHARIA"
                 },
                 {
                     "date": "18/02/2021 00:00:00",
                     "value": "45",
                     "dateParsed": "2021-02-18T00:00:00",
                     "valueParsed": 45,
-                    "description": "COMPRAS - ZECA S BAR E REST LTDA EPP"
+                    "description": "COMPRAS - SUSHI"
                 },
                 {
                     "date": "17/02/2021 00:00:00",
                     "value": "67,80",
                     "dateParsed": "2021-02-17T00:00:00",
                     "valueParsed": 67.8,
-                    "description": "COMPRAS - MC DONALD'S"
+                    "description": "COMPRAS - SUSHI"
                 }
             ]
         }
